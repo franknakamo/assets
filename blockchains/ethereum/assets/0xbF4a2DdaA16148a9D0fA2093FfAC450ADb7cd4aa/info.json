@@ -1,11 +1,11 @@
 {
     "name": "Ethereum Money",
     "symbol": "ETHMNY",
-    "type": "ERC20",
+    "type": "ERC223",
     "decimals": 2,
-    "description": "-",
-    "website": "https://ethmny.net",
+    "description": "ERC-223 is a superset of the ERC20. It is a step forward towards economic abstraction at the application/contract level allowing the use of tokens as first class value transfer assets in smart contract development. ",
+    "website": "https://ethmny.com",
     "explorer": "https://etherscan.io/token/0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa",
-    "status": "abandoned",
+    "status": "active",
     "id": "0xbF4a2DdaA16148a9D0fA2093FfAC450ADb7cd4aa"
-}
+"logo" {"https://raw.githubusercontent.com/franknakamo/ETHMNY-LOGO-200x200/refs/heads/main/Photoroom_20250323_004208.jpeg"}}
